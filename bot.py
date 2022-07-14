@@ -18,4 +18,4 @@ async def pictureOfTheDay(ctx, day: str, month: str, year: str):
     await ctx.send(text)
     os.remove('apodIMG.jpg')
     
-client.run("OTk1MzcxNjYzMzM4MjQyMjE4.GbvYAy.wuTy8jju2Nogfo41H8j_m2ihzuN5DdlofMXjtQ")
+client.run("")
